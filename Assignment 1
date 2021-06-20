@@ -1,0 +1,49 @@
+Q1
+
+Ans: * = expression
+     'hello' = value
+     -87.8 = value
+     - = expression
+     / = expression
+     + = expression
+     6 = value
+     
+Q2
+
+Ans: A variable is a lace to store information
+     A string is one of the type of infomation stored in a variable.A string is usually words enclosed with " "
+     
+Q3
+
+Ans: String - A string is a collection of one or more characters enclosed within a single,double or a triple quote.
+     Integer - Integer data types are zero,positive or negative whole without fractional part
+     Float - float data type designates a floating point number.They are specified with a decimal point
+     
+Q4
+
+Ans: An expression is a combination of values, variables, operators and calls to a function.Expressions are representations of values.
+
+Q5
+
+Ans: An expression evaluates to a value whereas a statement does something,statements represent an action or command
+
+Q6
+
+Ans: 22
+
+Q7
+
+Ans: 'spam' + 'spamapam' = 'spamspamapam'
+     'spam'* 3 = 'spamspamspam'
+     
+Q8
+
+Ans: A varible name should always begin with an alphabet or (_)underscore,ence 100 is an invalid variable name.
+
+Q9
+
+Ans: The int(), float(),and str() functions are used.
+
+Q10
+
+Ans: The expression causes error because we cannot append string data type with an integer data type.This can be fixed by coverting the integer type into a string by exclosing it within ' '.
